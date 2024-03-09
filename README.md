@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Muskan123-lang
+- 👋 Hi, I’m Muskan Sharma
+- 👩‍💻 I am a Computer Science Engineer
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning ...
+- I have worked in Dotnet technology
+- 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
