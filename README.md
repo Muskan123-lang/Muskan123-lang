@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muskan Sharma
-- 👩‍💻 I am a Computer Science Engineer
+- 👩‍💻 I am a BTech Graduate
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- I have worked in Dotnet technology
+- I have hands-on knowledge of Dotnet technology
 - 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
